@@ -52,4 +52,4 @@ The main packages include: numpy, pandas, matplotlib, seaborn, scikit-learn, lig
 The results have been well docomented in the Jupiter Notebook. Please refer Arvato Project Workbook.ipynb
 
 # Github Repo
-
+https://github.com/dirkules339/Bertelsmann-Arvato-Project.git
