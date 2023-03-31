@@ -53,3 +53,6 @@ The results have been well docomented in the Jupiter Notebook. Please refer Arva
 
 # Github Repo
 https://github.com/dirkules339/Bertelsmann-Arvato-Project.git
+
+# BlogPost
+https://dirkules339.github.io/blog/
