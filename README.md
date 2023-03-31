@@ -1,4 +1,4 @@
-# Customer Segmentation and Acquisition - Bertelsmann Arvato (Jun 2021)
+# Customer Segmentation and Acquisition - Bertelsmann Arvato
 
 Machine Learning Engineer Udacity Nanodegree - Capstone Project
 This GitHub repository hosts the code and report for "Capstone project - Arvato Customer Segmentation" that I developed and completed as part of Udacity Machine Learning Engineer Nanodegree program.
